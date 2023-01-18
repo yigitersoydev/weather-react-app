@@ -3,7 +3,9 @@
 ## Required Libraries
 
 Semantic UI for visualization
-### `npm install semantic-ui-react semantic-ui-css`
+```bash
+npm install semantic-ui-react semantic-ui-css
+```
 
 date-fns for date formatting
 ### `npm install date-fns`

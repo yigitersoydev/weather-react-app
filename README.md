@@ -8,7 +8,9 @@ npm install semantic-ui-react semantic-ui-css
 ```
 
 date-fns for date formatting
-### `npm install date-fns`
+```bash
+npm install date-fns
+```
 
 ## Available Scripts
 

@@ -5,7 +5,7 @@ import { Input } from "semantic-ui-react";
 
 const Weather = () => {
   const [search, setSearch] = useState();
-  const key = "6e6171b8e9cdef73f5524ced9ef76f10";
+  const key = "YOUR_API_KEY";
 
   function handleSearch(e) {
     setSearch(e.target.value);

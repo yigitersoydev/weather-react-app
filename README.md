@@ -1,3 +1,5 @@
+## CSS is not prioritized in this project.
+
 ## Required Libraries
 
 Semantic UI for visualization

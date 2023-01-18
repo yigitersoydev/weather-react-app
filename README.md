@@ -1,6 +1,6 @@
-> CSS is not prioritized in this project.
-
 ## Required Libraries
+
+> CSS is not prioritized in this project.
 
 Semantic UI for visualization
 ```bash

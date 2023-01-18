@@ -3,10 +3,6 @@
 ### `npm install semantic-ui-react semantic-ui-css`
 ### `npm install date-fns`
 
-In the index.js file please add following code
-
-### `import 'semantic-ui-css/semantic.min.css'`
-
 ## Available Scripts
 
 In the project directory, you can run:

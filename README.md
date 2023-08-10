@@ -1,4 +1,4 @@
-## Required Libraries
+
 
 > CSS is not prioritized in this project.
 
